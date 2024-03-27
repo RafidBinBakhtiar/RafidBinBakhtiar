@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fcolorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_12821890.htm&psig=AOvVaw0e1ReR8_tKE1A3_I80yFTd&ust=1711648880104000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCID07I6DlYUDFQAAAAAdAAAAABAJ)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Rafid Bin Bakhtiar</h1>
 <h3 align="center">Curious mind who wants to explore the vast technological world.</h3>
