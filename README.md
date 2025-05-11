@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafidbinbakhtiar" alt="rafidbinbakhtiar" /></a> </p>
 
-- 🔭 I’m currently working on **web development**
+- 🔭 I’m currently working on **Web development, Designing, Research**
 
 - 🌱 I’m currently learning **JavaScript**
 
